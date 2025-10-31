@@ -1,3 +1,4 @@
+#the answer given here is just a copy of GrPA 5 of week 5. and not that of GrPA 4. so admins pl make necessary improvements. thanks. Youth Raj for Truth 
 '''
 GrPA 4 - lambda, zip, enumerate, map, filter - GRADED
 Implement the given functions according to the docstrings.
